@@ -85,4 +85,4 @@ A tabela `profissoes` possui os seguintes campos:
 
 ## Contribuidores
 
-- Nome do Autor - GitHub: https://github.com/IsaaLarsen
+- Isadora Larsen - GitHub: https://github.com/IsaaLarsen
