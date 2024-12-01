@@ -13,7 +13,7 @@ Pré-requisitos:
 
 Passos para Configuração:
 1. Clone este repositório:
-   git clone https://github.com/IsaaLarsen/laravel-backend.git
+   git clone https://github.com/IsaaLarsen/laravel.git
 
 2. Acesse o diretório do projeto:
    cd laravel-backend
